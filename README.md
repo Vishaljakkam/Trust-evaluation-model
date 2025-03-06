@@ -1,4 +1,4 @@
-#Towards a Machine Learning-driven Trust Evaluation Model for Social Internet of Things: A Time-aware Approach
+#TOWARDS
 
 INTRODUCTION:
 This project explores a Machine Learning-driven approach to evaluate trust in the Social Internet of Things (SIoT), focusing on a time-aware model. With the increase in interconnected IoT devices, establishing reliable and trustworthy connections is critical. Our model leverages time-sensitive features to assess and adapt to changing trust levels dynamically.
